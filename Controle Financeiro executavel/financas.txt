@@ -1,0 +1,3 @@
+lista mercado,6666,Entrada,2024-11-04 22:08:40
+teste,333,Saída,2024-11-04 22:38:48
+Salario,423,Entrada,2024-11-04 22:42:06
